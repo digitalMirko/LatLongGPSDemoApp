@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Latitude Longitude GPS Demo App</string>
+
+    <string name="btnGPS_Text">Click for Lat/Lon</string>
+</resources>
